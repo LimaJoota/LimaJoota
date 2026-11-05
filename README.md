@@ -21,7 +21,6 @@ The code is private. Happy to walk through it in a call.
 - **[Handy, my fork](https://github.com/LimaJoota/Handy):** the offline speech-to-text app I dictate with every day, plus accent colours, word replacements, paste recovery and recent transcripts in the tray.
 - **Helena:** a voice secretary that places calls from my iPhone. Internal tests only.
 - **Closet Wars:** a Roblox social tycoon and heist game.
-- **[Esquadro](https://github.com/LimaJoota/esquadro):** a Claude Code skill for sketches and technical drawings. Work in progress.
 
 ## Before
 
