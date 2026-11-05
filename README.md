@@ -8,12 +8,24 @@
 
 [LinkedIn](https://www.linkedin.com/in/jaolima) · [Edex](https://www.edexatacadista.com.br)
 
-| | |
-|---|---|
-| **Edex Licita** · live | Monitors the national procurement portal around the clock, reads the notices with AI, scores each opportunity, prices the proposal, and follows every contract through to payment. |
-| **MAX** · live | Autonomous marketing engine for multiple brands. Plans campaigns, writes copy and video scripts, creates visuals, checks its own quality, and publishes to Instagram, TikTok and YouTube. |
-| **Edex 2.0** · launching | Our own B2B commerce platform: catalogue, customer area, quote requests and admin. |
-| **Edex Studios** | Games. First title: a Roblox work simulator set in a building materials warehouse. |
+<table>
+  <tr>
+    <td><b>Edex Licita</b> · live</td>
+    <td>Monitors the national procurement portal around the clock, reads the notices with AI, scores each opportunity, prices the proposal, and follows every contract through to payment.</td>
+  </tr>
+  <tr>
+    <td><b>MAX</b> · live</td>
+    <td>Autonomous marketing engine for multiple brands. Plans campaigns, writes copy and video scripts, creates visuals, checks its own quality, and publishes to Instagram, TikTok and YouTube.</td>
+  </tr>
+  <tr>
+    <td><b>Edex 2.0</b> · launching</td>
+    <td>Our own B2B commerce platform: catalogue, customer area, quote requests and admin.</td>
+  </tr>
+  <tr>
+    <td><b>Edex Studios</b></td>
+    <td>Games. First title: a Roblox work simulator set in a building materials warehouse.</td>
+  </tr>
+</table>
 
 Also building **Lapso**, SaaS for bars and restaurants, and **Helena**, a voice agent that places phone calls for me. I daily-drive my own fork of **[Handy](https://github.com/LimaJoota/Handy)**, offline speech-to-text.
 
