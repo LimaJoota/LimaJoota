@@ -10,9 +10,7 @@ This came from one prompt, in one run: *"Draw a sketch that explains how a toile
 
 ![A hand-drawn cutaway of a toilet tank with numbered parts and a legend](assets/esquadro-flush-tank.png)
 
-| |
-|---|
-| ![A pipe stack without chocks, marked wrong, and with chocks, marked right](assets/esquadro-compare.png) |
+![A pipe stack without chocks, marked wrong, and with chocks, marked right](assets/esquadro-compare.png)
 
 ## [Handy, my fork](https://github.com/LimaJoota/Handy)
 
