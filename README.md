@@ -1,30 +1,34 @@
-**📟 Software Engineer student from Brazil 🇧🇷**
+![João Lima: a hand-drawn line from an idea, through code and tests, to a truck that ships it](assets/banner.png)
 
-## About Me
+Software developer from Brazil. I write software, test it, and lately draw it.
 
-💻 I am an IT professional passionate about solving problems and creating innovative solutions, with experience in software development and automated testing. Currently, at **Zello Tecnologia**, I lead the implementation of robust test pipelines using **Cypress**, **Selenium**, and **JUnit** to ensure software quality throughout all phases of development.
+## [Esquadro](https://github.com/LimaJoota/esquadro)
 
-## Experience
+A skill for Claude Code that draws hand-style sketches to explain things, in pencil, pen and watercolour, and checks them for overlapping text before you see them. It also makes technical sheets with real scale and dimensions computed from the geometry.
 
-### Zello Tecnologia
+This came from one prompt, in one run: *"Draw a sketch that explains how a toilet flush tank works."*
 
-- 🚀 **Test Pipeline Implementation:** Lead the creation of robust test pipelines using Cypress, Selenium, and JUnit.
-- 🤝 **Automated Test Integration:** Collaborate with development teams to integrate automated tests into the CI/CD process using Jenkins, GitLab CI, and Travis CI.
-- 🔍 **Failure Identification:** Conduct exploratory and regression testing to identify failures and areas for improvement in the system using tools like Postman and TestNG.
+![A hand-drawn cutaway of a toilet tank with numbered parts and a legend](assets/esquadro-flush-tank.png)
 
-### Edex Atacadista (Internship)
+| |
+|---|
+| ![A pipe stack without chocks, marked wrong, and with chocks, marked right](assets/esquadro-compare.png) |
 
-- 📱 **Flutter Development:** Contributed to the optimization of the company’s mobile app by implementing real-time notifications and customizing themes to provide an exceptional user experience.
+## [Handy, my fork](https://github.com/LimaJoota/Handy)
 
-## Specialties
+My daily dictation tool: [Handy](https://github.com/cjpais/Handy) is open-source, offline speech-to-text. My macOS build adds accent colours, word replacements, paste recovery and recent transcripts in the tray.
 
-- 🌐 **API Testing:** Expertise in API testing using tools like Postman, REST Assured, and SoapUI to ensure the integrity and functionality of application interfaces.
-- 🧪 **Virtualization and Containers:** Knowledge in creating isolated and replicable test environments with Docker and Kubernetes.
-- 🛠️ **Exploratory and Regression Testing:** Skilled in performing exploratory and regression tests to identify system failures and areas for improvement.
+![A person talks, the words appear on a laptop, and a red cross blocks the way to the cloud](assets/handy.png)
 
----
+## What I work with
 
-📫 **Contact Me:**  
-- [LinkedIn](https://www.linkedin.com/in/jaolima)
-- [Email](mailto:contato@jaolima.com)
-- [Instagram](https://instagram.com/jaolimadev)
+![A test pyramid: Cypress and Selenium on top, Postman, REST Assured and SoapUI in the middle, JUnit and TestNG at the base, with CI running them all](assets/skills.png)
+
+- **Zello Tecnologia:** test pipelines with Cypress, Selenium and JUnit, wired into CI, plus exploratory and regression testing.
+- **Edex Atacadista (internship):** Flutter, real-time notifications and theming in the company's mobile app.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jaolima) · [Instagram](https://instagram.com/jaolimadev)
+
+<sub>The drawings on this page were made with Esquadro.</sub>
