@@ -1,31 +1,20 @@
-![João Lima: a hand-drawn line from an idea, through code, to a machine in production, to a truck on its way to a customer](assets/banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.gif">
+  <img alt="João Lima, founder of Edex Licita. A line drawing assembles itself in 3D: tender notices, marketing posts and an online store come together around a warehouse and its truck." src="assets/hero-light.gif">
+</picture>
 
-I build the software a Brazilian wholesale business runs on: winning public tenders, selling, and marketing, end to end and in production on infrastructure I run myself.
+**Founder of Edex Licita**, the AI platform for Brazilian public procurement. I'm building the operating system for how a Brazilian company wins government contracts, gets found, and sells.
 
-[Edex Atacadista](https://www.edexatacadista.com.br) · [LinkedIn](https://www.linkedin.com/in/jaolima) · [Instagram](https://instagram.com/jaolimadev)
+[LinkedIn](https://www.linkedin.com/in/jaolima) · [Edex](https://www.edexatacadista.com.br)
 
-## Edex
+| | |
+|---|---|
+| **Edex Licita** · live | Monitors the national procurement portal around the clock, reads the notices with AI, scores each opportunity, prices the proposal, and follows every contract through to payment. |
+| **MAX** · live | Autonomous marketing engine for multiple brands. Plans campaigns, writes copy and video scripts, creates visuals, checks its own quality, and publishes to Instagram, TikTok and YouTube. |
+| **Edex 2.0** · launching | Our own B2B commerce platform: catalogue, customer area, quote requests and admin. |
+| **Edex Studios** | Games. First title: a Roblox work simulator set in a building materials warehouse. |
 
-![Three systems, one business: Edex Licita, MAX and Edex 2.0 all feed the same warehouse and its truck](assets/systems.png)
+Also building **Lapso**, SaaS for bars and restaurants, and **Helena**, a voice agent that places phone calls for me. I daily-drive my own fork of **[Handy](https://github.com/LimaJoota/Handy)**, offline speech-to-text.
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Edex Licita** | Public tender platform. Watches Brazil's national procurement portal (PNCP) every hour, reads the notices with OCR and page citations, scores what is worth pursuing, prices proposals with cost kept apart from price, and tracks deadlines, documents and results through to payment. | FastAPI, PostgreSQL, React, Tailwind |
-| **MAX** | Multi-tenant marketing automation with generative AI. Plans goals, writes copy and video scripts, composes visuals, checks quality, and publishes on schedule to Instagram, TikTok and YouTube. | FastAPI, PostgreSQL |
-| **Edex 2.0** | The company's own sales platform, replacing its Wix site. Catalogue, customer area, quote requests and admin panel work; online payment, freight and invoicing come next. | Next.js, TypeScript, Tailwind, PostgreSQL, Prisma |
-| **Loja Edex** | Edex Studios' first Roblox game: a work simulator set in a building materials warehouse. | Luau, Rojo |
-
-The code is private. Happy to walk through it in a call.
-
-## Other projects
-
-- **Lapso:** multi-tenant SaaS for bars and restaurants, with floor service, kitchen display, reservations, delivery and recurring billing.
-- **[Handy, my fork](https://github.com/LimaJoota/Handy):** the offline speech-to-text app I dictate with every day, plus accent colours, word replacements, paste recovery and recent transcripts in the tray.
-- **Helena:** a voice secretary that places calls from my iPhone. Internal tests only.
-- **Closet Wars:** a Roblox social tycoon and heist game.
-
-![A person talks, the words appear on a laptop, and a red cross blocks the way to the cloud](assets/handy.png)
-
-## Before
-
-Test automation and CI pipelines at Zello Tecnologia, and Flutter on Edex's mobile app.
+Founders, operators and investors: [let's talk](https://www.linkedin.com/in/jaolima).
