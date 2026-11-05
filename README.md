@@ -6,7 +6,7 @@ Software developer from Brazil. I write software, test it, and lately draw it.
 
 A skill for Claude Code that draws hand-style sketches to explain things, in pencil, pen and watercolour, and checks them for overlapping text before you see them. It also makes technical sheets with real scale and dimensions computed from the geometry.
 
-This came from one prompt, in one run: *"Draw a sketch that explains how a toilet flush tank works."*
+This came from one prompt, in one run: *"Draw a sketch that explains how a toilet flush tank works, for a home maintenance manual."*
 
 ![A hand-drawn cutaway of a toilet tank with numbered parts and a legend](assets/esquadro-flush-tank.png)
 
