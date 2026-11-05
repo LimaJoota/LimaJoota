@@ -1,32 +1,28 @@
-![João Lima: a hand-drawn line from an idea, through code and tests, to a truck that ships it](assets/banner.png)
+# João Lima
 
-Software developer from Brazil. I write software, test it, and lately draw it.
+I build the software a Brazilian wholesale business runs on: winning public tenders, selling, and marketing, end to end and in production on infrastructure I run myself.
 
-## [Esquadro](https://github.com/LimaJoota/esquadro)
+[Edex Atacadista](https://www.edexatacadista.com.br) · [LinkedIn](https://www.linkedin.com/in/jaolima) · [Instagram](https://instagram.com/jaolimadev)
 
-A skill for Claude Code that draws hand-style sketches to explain things, in pencil, pen and watercolour, and checks them for overlapping text before you see them. It also makes technical sheets with real scale and dimensions computed from the geometry.
+## Edex
 
-This came from one prompt, in one run: *"Draw a sketch that explains how a toilet flush tank works, for a home maintenance manual."*
+| Project | What it does | Stack |
+|---|---|---|
+| **Edex Licita** | Public tender platform. Watches Brazil's national procurement portal (PNCP) every hour, reads the notices with OCR and page citations, scores what is worth pursuing, prices proposals with cost kept apart from price, and tracks deadlines, documents and results through to payment. | FastAPI, PostgreSQL, React, Tailwind |
+| **MAX** | Multi-tenant marketing automation with generative AI. Plans goals, writes copy and video scripts, composes visuals, checks quality, and publishes on schedule to Instagram, TikTok and YouTube. | FastAPI, PostgreSQL |
+| **Edex 2.0** | The company's own sales platform, replacing its Wix site. Catalogue, customer area, quote requests and admin panel work; online payment, freight and invoicing come next. | Next.js, TypeScript, Tailwind, PostgreSQL, Prisma |
+| **Loja Edex** | Edex Studios' first Roblox game: a work simulator set in a building materials warehouse. | Luau, Rojo |
 
-![A hand-drawn cutaway of a toilet tank with numbered parts and a legend](assets/esquadro-flush-tank.png)
+The code is private. Happy to walk through it in a call.
 
-![A pipe stack without chocks, marked wrong, and with chocks, marked right](assets/esquadro-compare.png)
+## Other projects
 
-## [Handy, my fork](https://github.com/LimaJoota/Handy)
+- **Lapso:** multi-tenant SaaS for bars and restaurants, with floor service, kitchen display, reservations, delivery and recurring billing.
+- **[Handy, my fork](https://github.com/LimaJoota/Handy):** the offline speech-to-text app I dictate with every day, plus accent colours, word replacements, paste recovery and recent transcripts in the tray.
+- **Helena:** a voice secretary that places calls from my iPhone. Internal tests only.
+- **Closet Wars:** a Roblox social tycoon and heist game.
+- **[Esquadro](https://github.com/LimaJoota/esquadro):** a Claude Code skill for sketches and technical drawings. Work in progress.
 
-My daily dictation tool: [Handy](https://github.com/cjpais/Handy) is open-source, offline speech-to-text. My macOS build adds accent colours, word replacements, paste recovery and recent transcripts in the tray.
+## Before
 
-![A person talks, the words appear on a laptop, and a red cross blocks the way to the cloud](assets/handy.png)
-
-## What I work with
-
-![A test pyramid: Cypress and Selenium on top, Postman, REST Assured and SoapUI in the middle, JUnit and TestNG at the base, with CI running them all](assets/skills.png)
-
-- **Zello Tecnologia:** test pipelines with Cypress, Selenium and JUnit, wired into CI, plus exploratory and regression testing.
-- **Edex Atacadista (internship):** Flutter, real-time notifications and theming in the company's mobile app.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jaolima) · [Instagram](https://instagram.com/jaolimadev)
-
-<sub>The drawings on this page were made with Esquadro.</sub>
+Test automation and CI pipelines at Zello Tecnologia, and Flutter on Edex's mobile app.
