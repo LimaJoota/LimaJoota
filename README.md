@@ -1,10 +1,12 @@
-# João Lima
+![João Lima: a hand-drawn line from an idea, through code, to a machine in production, to a truck on its way to a customer](assets/banner.png)
 
 I build the software a Brazilian wholesale business runs on: winning public tenders, selling, and marketing, end to end and in production on infrastructure I run myself.
 
 [Edex Atacadista](https://www.edexatacadista.com.br) · [LinkedIn](https://www.linkedin.com/in/jaolima) · [Instagram](https://instagram.com/jaolimadev)
 
 ## Edex
+
+![Three systems, one business: Edex Licita, MAX and Edex 2.0 all feed the same warehouse and its truck](assets/systems.png)
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -21,6 +23,8 @@ The code is private. Happy to walk through it in a call.
 - **[Handy, my fork](https://github.com/LimaJoota/Handy):** the offline speech-to-text app I dictate with every day, plus accent colours, word replacements, paste recovery and recent transcripts in the tray.
 - **Helena:** a voice secretary that places calls from my iPhone. Internal tests only.
 - **Closet Wars:** a Roblox social tycoon and heist game.
+
+![A person talks, the words appear on a laptop, and a red cross blocks the way to the cloud](assets/handy.png)
 
 ## Before
 
