@@ -27,6 +27,6 @@
   </tr>
 </table>
 
-Also building **Lapso**, SaaS for bars and restaurants, and **Helena**, a voice agent that places phone calls for me. I daily-drive my own fork of **[Handy](https://github.com/LimaJoota/Handy)**, offline speech-to-text. I also open-sourced **[Esquadro](https://github.com/LimaJoota/esquadro)**, a Claude Code skill that draws hand-style sketches and checked technical figures, and **[Espelho](https://github.com/LimaJoota/espelho)**, which drives a real iPhone through iPhone Mirroring.
+Also building **Lapso**, SaaS for bars and restaurants, and **Helena**, a voice agent that places phone calls for me. I made **[Escrevoz](https://github.com/LimaJoota/escrevoz)**, free offline voice dictation for Mac, built on [Handy](https://github.com/cjpais/Handy). My fixes go back to Handy too. I also open-sourced **[Esquadro](https://github.com/LimaJoota/esquadro)**, a Claude Code skill that draws hand-style sketches and checked technical figures, and **[Espelho](https://github.com/LimaJoota/espelho)**, which drives a real iPhone through iPhone Mirroring.
 
 Founders, operators and investors: [let's talk](https://www.linkedin.com/in/jaolima).
